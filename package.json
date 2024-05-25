@@ -1,0 +1,17 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Server-Node Practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "nodemon": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameer Hamza Khan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
